@@ -35,7 +35,8 @@ Questions to ask?
 
 **Updated with managed model, monitoring and experiments:**
 ![image](https://user-images.githubusercontent.com/42828760/208108311-cc87c444-b504-473b-8c18-d0224caab07d.png)
-   ***Points to take care:***
+
+***Points to take care:***
 
 Managed Models:
  * Support online model hosting.
