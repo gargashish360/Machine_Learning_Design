@@ -33,7 +33,7 @@
 Questions to ask?
 * How can one orchestrate daily jobs from the data lake to the featured Store?
 
-Updated diagram with managed model:
+**Updated with managed model:**
 ![image](https://user-images.githubusercontent.com/42828760/208103322-adb9ba01-3546-422d-b870-41f325275044.png)
 
 Points to take care:
