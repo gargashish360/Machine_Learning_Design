@@ -1,6 +1,6 @@
 # Design a Machine Learning Platform for a large tech company:
 
-Relevant Questions to ask?
+**Relevant Questions to ask?**
 * What is the purpose of app/website?
 * How will user interact with platform?
 * What is the scale of use?
@@ -14,7 +14,7 @@ Relevant Questions to ask?
 * Do we need to create features on a real-time basis?
 * Do we need to go towards Deep_Learning?
 
-Managed Data: 
+**Managed Data:** 
 * Provide a way to create, find, and share features and lables for machine learning.
 * If we have HDFS data lake to provide such, there should be a close integration with such HDFS datalake.
 * Scalable to thousands of data jobs(Petabyte scale data).
@@ -24,6 +24,17 @@ Managed Data:
 * Incorporate data quality monitoring.
 * Provide online and offline data access.
 * Enable custom data transforms specifc to models.
+
+![image](https://user-images.githubusercontent.com/42828760/208073292-1b64a075-b6da-4dee-93fb-981b5ee8dc5f.png)
+
+* An API can be used to trigger operations over feature Space.
+* Data can be stored in Example Store.
+
+Questions to ask?
+* How can one orchestrate daily jobs from the data lake to the featured Store?
+
+
+
 
 
 
