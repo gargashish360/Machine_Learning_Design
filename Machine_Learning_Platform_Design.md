@@ -15,15 +15,15 @@ Relevant Questions to ask?
 * Do we need to go towards Deep_Learning?
 
 Managed Data: 
---> Provide a way to create, find, and share features and lables for machine learning.
---> If we have HDFS data lake to provide such, there should be a close integration with such HDFS datalake.
---> Scalable to thousands of data jobs(Petabyte scale data).
---> Provide data metadata:
-	-Data-Metrics: Size, rows/columns, consumers, description, schema.
-	-Quality-Metrics: Update frequency, Per Column(Missing Values, Variance), Percent of total missing data.
---> Incorporate data quality monitoring.
---> Provide online and offline data access.
---> Enable custom data transforms specifc to models.
+* Provide a way to create, find, and share features and lables for machine learning.
+* If we have HDFS data lake to provide such, there should be a close integration with such HDFS datalake.
+* Scalable to thousands of data jobs(Petabyte scale data).
+* Provide data metadata:
+	* Data-Metrics: Size, rows/columns, consumers, description, schema.
+	* Quality-Metrics: Update frequency, Per Column(Missing Values, Variance), Percent of total missing data.
+* Incorporate data quality monitoring.
+* Provide online and offline data access.
+* Enable custom data transforms specifc to models.
 
 
 
